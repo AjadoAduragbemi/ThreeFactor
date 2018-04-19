@@ -1,2 +1,2 @@
 # ThreeFactor
-A Steganography Algorithm to hide data in an RGB picture image.
+Implements a simple steganography algorithm to hide data in an RGB picture image.
